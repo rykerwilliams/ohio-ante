@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Ohio Ante A2A
 ---
 
 # Legal sets
