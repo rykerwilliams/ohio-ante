@@ -1,5 +1,5 @@
 ---
-title: Ohio Ante A2A
+title: Ohio Ante Alpha to Alliances
 ---
 
 # Legal sets
